@@ -8,7 +8,7 @@
 
 示例：
 
-    https://raw.githubusercontent.com/qixian0011-lang/image-hosting/main/images/size-chart-square.png
+    https://raw.githubusercontent.com/qixian0011-lang/image-hosting/main/images/size-chart-square.jpg
 
 ## 使用注意
 
